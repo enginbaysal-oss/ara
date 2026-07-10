@@ -1,13 +1,10 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Baysal;Engin;;;
 FN:Engin Baysal
+N:Baysal;Engin;;;
 ORG:RE/MAX İLYADA-3
 TITLE:Gayrimenkul Danışmanı
 TEL;TYPE=CELL:+905531354681
 EMAIL:engin.baysal@remax-ilyada.com
-URL:https://enginbaysal-oss.github.io/ara/
 URL:https://remaxilyada3.sahibinden.com/?userId=aSwoEkHuNWt9xoT9N40KhoA
-ADR;TYPE=WORK:;;RE/MAX İLYADA-3;;;Manisa;;Türkiye
-NOTE:Satılık ve Kiralık Gayrimenkul Danışmanı
 END:VCARD
